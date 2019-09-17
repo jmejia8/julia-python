@@ -1,9 +1,12 @@
-# Julia and Python environments
+# Curso: Cómputo Evolutivo
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/julia_python/master)
+## No tengo instalado Julia
+Para abrir el contenido del curso, dale click a la siguiente imagen:
 
-This example shows how you can install a Julia and Python environment side-by-side.
-In this repository are *both* an `environment.yml` file as well as a `REQURE` file.
-The former corresponds to an anaconda python environment, and the latter corresponds
-to a Julia environment. Both kernels will be available to you in a built Binder
-environment.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmejia8/julia-python/master)
+
+
+## Sí Tengo Jupyter y Julia 1.x Instalado
+
+- Descargar este repositorio y abrir Julia en el directorio del repositorio. 
+- Abrir `jupyter notebook`  y abrir `curso.ipynb` 

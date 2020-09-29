@@ -4,7 +4,7 @@ authors = ["Jesus Mejia <jesusmejded@gmail.com>"]
 version = "0.1.0"
 
 [deps]
-CEC17 = "3cc665fe-1bcd-5e4a-b50e-d474010b7d58"
+CEC17 = "0318202d-043a-4757-bf60-350d2de7ac8d"
 Mechanisms = "6008d138-f6a6-11e9-2d87-77bb460d12fc"
 MechanismsPlots = "111fe728-f6ba-11e9-2146-3d6ad67a792c"
 Metaheuristics = "bcdb8e00-2c21-11e9-3065-2b553b22f898"

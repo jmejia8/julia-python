@@ -31,9 +31,9 @@ version = "0.2.0"
 
 [[ColorSchemes]]
 deps = ["ColorTypes", "Colors", "FixedPointNumbers", "Random", "StaticArrays"]
-git-tree-sha1 = "950f477dfe152a0dd2221124986a5722db385199"
+git-tree-sha1 = "5d472aa8908568bc198564db06983913a6c2c8e7"
 uuid = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
-version = "3.10.0"
+version = "3.10.1"
 
 [[ColorTypes]]
 deps = ["FixedPointNumbers", "Random"]
@@ -248,11 +248,11 @@ version = "0.1.0"
 
 [[Metaheuristics]]
 deps = ["LinearAlgebra", "Pkg", "Printf", "Random", "Statistics", "Test", "UnicodePlots"]
-git-tree-sha1 = "d64ffe0c8533ec641ac13acc825ce169ce67d6f2"
+git-tree-sha1 = "18edcd762561a754ed33e6ca5a19afb161157ce7"
 repo-rev = "master"
 repo-url = "https://github.com/jmejia8/Metaheuristics.jl.git"
 uuid = "bcdb8e00-2c21-11e9-3065-2b553b22f898"
-version = "2.0.3"
+version = "2.0.4"
 
 [[Missings]]
 deps = ["DataAPI"]
@@ -315,9 +315,9 @@ version = "1.0.7"
 
 [[Plots]]
 deps = ["Base64", "Contour", "Dates", "FFMPEG", "FixedPointNumbers", "GR", "GeometryBasics", "GeometryTypes", "JSON", "LinearAlgebra", "Measures", "NaNMath", "PlotThemes", "PlotUtils", "Printf", "REPL", "Random", "RecipesBase", "RecipesPipeline", "Reexport", "Requires", "Showoff", "SparseArrays", "Statistics", "StatsBase", "UUIDs"]
-git-tree-sha1 = "a4546c4046fe2a16042305006694a079d34e8f0b"
+git-tree-sha1 = "b179dff12ef580cbf1c0a68eadae18f6683475bc"
 uuid = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
-version = "1.6.6"
+version = "1.6.7"
 
 [[Printf]]
 deps = ["Unicode"]
@@ -350,9 +350,9 @@ version = "0.2.0"
 
 [[Requires]]
 deps = ["UUIDs"]
-git-tree-sha1 = "2fc2e1ab606a5dca7bbad9036a694553c3a57926"
+git-tree-sha1 = "28faf1c963ca1dc3ec87f166d92982e3c4a1f66d"
 uuid = "ae029012-a4dd-5104-9daa-d747884805df"
-version = "1.0.3"
+version = "1.1.0"
 
 [[SHA]]
 uuid = "ea8e919c-243c-51af-8825-aaa63cd721ce"
